@@ -13,10 +13,10 @@ Prepare the lists from each linear equations and assign in np.array()
 Using the np.linalg.matrix_rank(), we can find the rank of the given matrix.
 ### Step 4: 
 End the program
+### Developed by: Rohith S
+### RegisterNumber: 25008317
 ## Program:
 ```
-#Developed by: Rohith S
-#RegisterNumber: 25008317
 import numpy as np
 a = np.array([[3,2,5],[1,1,2],[3,3,6]])
 b = np.linalg.matrix_rank(a)
